@@ -1,0 +1,9 @@
+Kahve dükkanlarý için müþteri yönetimi yapan bir sistem yapmak istiyoruz.
+Starbucks ve Nero Firmasý için çalýþýyoruz.
+Ýki firma da müþterilerini veri tabanýna kaydetmek istiyor.
+Starbucks müþterileri kaydederken, mutlaka mernis doðrulamasý istiyor. Nero ise istemiyor.
+Starbucks müþteriler için her kahve alýmýnda yýldýz kazandýrmak istiyor.
+Klasörlendirme yapýsýna göre:
+Abstract: Interface gibi soyut sýnýflarýn tutulduðu alan.
+Concrete: Somut sýnýflarýn tutulduðu alan.
+Entities: Veri tabaný ile doðrudan etkileþime geçecek olan sýnýflarýn tutulduðu alan.
