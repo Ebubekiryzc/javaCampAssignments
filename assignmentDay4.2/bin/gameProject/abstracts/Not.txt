@@ -1,0 +1,2 @@
+Normal þartlarda burada her bir entity class için ayrý ayrý CRUD Manager oluþturmak yerine,
+generic type kullanarak tek bir CRUD Manager yapýlabilirdi. Ancak sadece gördüðümüz konularý kullanmamýz gerekiyordu.
